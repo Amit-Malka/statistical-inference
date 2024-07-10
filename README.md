@@ -1,6 +1,3 @@
-Here's a README draft based on the experiment you described:
-
----
 
 # Crohn's Disease Treatment Study
 
